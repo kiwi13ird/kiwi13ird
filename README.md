@@ -1,8 +1,8 @@
 ## 📌 About Me
 
 ### 윤규리
-- 소속: Hankuk University of Foreign Studies, Computer Engineering
-- 관심 분야: Frontend, Web Security, Financial IT
+- Hankuk University of Foreign Studies, Computer Engineering
+- Frontend
 
 <br/>
 
